@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 50px ;
+    font-family: cursive;
+    /* line-height: 1.5; */
+    font-size: 20px;
+}
+.karta1{
+    width: 500px;
+    height: 500px;
+    margin:0 right;
+    background-color: white;
+    box-shadow: 0 8px 12px black;
+    border-radius: 15px;
+    padding: 25px;
+}
+.photo1{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.div-title1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(61, 61, 61);
+}
+.text1{
+    font-size: 18px;
+    color: rgb(23, 27, 22);
+}
+
+
+.karta2{
+    width: 500px;
+    margin:0 left;
+    background-color: white;
+    box-shadow: 0 8px 12px black;
+    border-radius: 15px;
+    padding: 25px;
+}
+.photo2{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.div-title2{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(61, 61, 61);
+}
+.text2{
+    font-size: 18px;
+    color: rgb(23, 27, 22);
+}
+
+
+hr{
+    border: solid;
+}
